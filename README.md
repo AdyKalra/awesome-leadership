@@ -7,6 +7,8 @@
 - [Giving-Feedback-Praise-and-Advice](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Giving-Feedback-Praise-and-Advice.md)
 - [Hiring-and-Interviewing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Hiring-and-Interviewing.md)
 - [Managing-Remotely](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Managing-Remotely.md)
+- [Meetings](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Meetings.md)
+- [Motivation-Retention](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Motivation-Retention.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
