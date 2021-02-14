@@ -41,3 +41,10 @@
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
+
+#### Embarking Leadership (Leads and Principals)
+- [For-Developers-Teamwork-TechDebt](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/For-Developers-Teamwork-TechDebt.md)
+
+[Back to top :arrow_up:](#trends)
+[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
