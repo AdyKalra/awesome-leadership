@@ -12,21 +12,32 @@
 #### Leadership Abilities, Qualities and Values
 - [Abilities-Qualities-Values](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Delegation](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Delegation.md)
+- [Empathy-and-Listening](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Empathy-and-Listening.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
 
-
-#### Org and Strategy
+#### Org 
 - [Culture](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Culture.md)
-- [Decision-Making-and-Prioritization](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
 - [Diversity-and-Inclusion](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Diversity-and-Inclusion.md)
+- [Firing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Firing.md)
+
+[Back to top :arrow_up:](#trends)
+[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
+
+#### Strategy 
+- [First 100 days](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/First%20100%20days.md)
+- [Decision-Making-and-Prioritization](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
+
+[Back to top :arrow_up:](#trends)
+[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
 
 #### Working with Stakeholders
 - [Product , Startups and OKRs](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
-
-
 <!--- END OF TOPIC--->
