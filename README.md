@@ -6,6 +6,7 @@
 - [Conflict-Prevention-Resolution](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
 - [Giving-Feedback-Praise-and-Advice](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Giving-Feedback-Praise-and-Advice.md)
 - [Hiring-and-Interviewing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Hiring-and-Interviewing.md)
+- [Managing-Remotely](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Managing-Remotely.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -35,6 +36,7 @@
 #### leadership Community
 - [Leaders to follow](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leader-List.md)
 - [Leadership-Forums](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leadership-Forums.md)
+- [insights blogs newsletters podcasts](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Media-Blogs-Newsletters-Podcasts.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
