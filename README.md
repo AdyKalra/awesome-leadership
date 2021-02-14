@@ -30,6 +30,14 @@
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
 
+#### leadership Community
+- [Leaders to follow](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leader-List.md)
+- [Leadership-Forums](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leadership-Forums.md)
+
+[Back to top :arrow_up:](#trends)
+[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
+
 #### Strategy 
 - [First 100 days](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/First%20100%20days.md)
 - [Decision-Making-and-Prioritization](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
