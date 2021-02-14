@@ -4,6 +4,8 @@
 - [7 Must-Do’s to Nurture 10x Engineers](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/7%20Must-Do%E2%80%99s%20to%20Nurture%2010x%20Engineers.md)
 - [Building-Teams](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Building-Teams.md)
 - [Conflict-Prevention-Resolution](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
+- [Giving-Feedback-Praise-and-Advice](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Giving-Feedback-Praise-and-Advice.md)
+- [Hiring-and-Interviewing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Hiring-and-Interviewing.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -13,6 +15,7 @@
 - [Abilities-Qualities-Values](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Delegation](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Delegation.md)
 - [Empathy-and-Listening](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Empathy-and-Listening.md)
+- [Influencing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Influencing-Others.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
