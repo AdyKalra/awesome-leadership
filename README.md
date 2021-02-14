@@ -16,6 +16,7 @@
 - [Delegation](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Delegation.md)
 - [Empathy-and-Listening](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Empathy-and-Listening.md)
 - [Influencing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Influencing-Others.md)
+- [Leadership-Philosophies-and-Styles](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -24,6 +25,7 @@
 #### Org 
 - [Culture](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Culture.md)
 - [Diversity-and-Inclusion](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Diversity-and-Inclusion.md)
+- [Leading-Leaders](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
 - [Firing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Firing.md)
 
 [Back to top :arrow_up:](#trends)
