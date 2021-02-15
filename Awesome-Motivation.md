@@ -4,6 +4,17 @@
 
 * Hold a holistic view of organization’s ecosystem and stakeholders. Anticipate major shifts in the marketplace and identify emerging opportunities. Know how to work within resource limitations and make tough calls to reach the team’s goals. 
 
+* **Bring "Sizzle" as well as "Substance"**
+  * Sizzle = Personality
+  * Substance = Plan
+  * You need to have passion for what you do!
+    * And be able to convey passion to others
+    * In how you speak, tone of voice
+    * ideas , dress
+  * How powerful interactions influence perceptions
+  * "You can't be half a leader , you need to be all-in or not at all"
+  * "Unsuprisingly what you wont find is anybody below the CEO level ever saying that the reason they get up in the morning is to increase the shareholder revenue"
+
 * **Ruthlessly prioritize**
   * To ruthlessly prioritize, you must be able to answer the question, “What’s the most important thing I need to accomplish in this role?” Keep your goals front and center and get comfortable saying no and pushing back on competing demands, which can be tough for conflict-averse Strivers.
   * I look at my goals, I'm like okay, of the infinite things I could work on today, and out of the 20 things that are on my goal and to do list, what are the three that will make the biggest impact for me right now, and move me forward toward my most important goals? 
