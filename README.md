@@ -77,3 +77,10 @@
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
+
+#### Embarking Senior Leadership (Leads and Principals)
+- [Tools-to-Define-Your-Leadership-Style](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
+
+[Back to top :arrow_up:](#trends)
+[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
