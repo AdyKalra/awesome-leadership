@@ -23,6 +23,8 @@
 - [Influencing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Influencing-Others.md)
 - [Leadership-Philosophies-and-Styles](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 - [Productivity-and-Time-Management](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
+- [Leaders Eat Last](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md)
+- [The Six Morning Habits of High Performers](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%20Six%20Morning%20Habits%20of%20High%20Performers.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -33,6 +35,8 @@
 - [Diversity-and-Inclusion](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Diversity-and-Inclusion.md)
 - [Leading-Leaders](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
 - [Firing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Firing.md)
+- [The-CTO-role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-CTO-role.md)
+- [The-VP-Engineering-Role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-VP-Engineering-Role.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -67,6 +71,7 @@
 
 #### Embarking Leadership (Leads and Principals)
 - [For-Developers-Teamwork-TechDebt](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/For-Developers-Teamwork-TechDebt.md)
+- [Tools-to-Define-Your-Leadership-Style](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
