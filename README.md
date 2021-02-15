@@ -72,6 +72,7 @@
 #### Embarking Leadership (Leads and Principals)
 - [For-Developers-Teamwork-TechDebt](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/For-Developers-Teamwork-TechDebt.md)
 - [Tools-to-Define-Your-Leadership-Style](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
+- [Transitioning to Management](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
