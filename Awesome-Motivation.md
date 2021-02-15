@@ -24,7 +24,7 @@
   * Self-belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.
   * If you don’t believe in yourself, it’s hard to let yourself have contrarian ideas about the future. But this is where most value gets created.
 
-* Learn to think independently
+* **Learn to think independently**
   * “I will fail many times, and I will be really right once” is the entrepreneurs’ way. You have to give yourself a lot of chances to get lucky.
   * One of the most powerful lessons to learn is that you can figure out what to do in situations that seem to have no solution. The more times you do this, the more you will believe it. 
   * Grit comes from learning you can get back up after you get knocked down.
