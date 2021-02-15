@@ -80,6 +80,7 @@
 
 #### Embarking Senior Leadership (Leads and Principals)
 - [Tools-to-Define-Your-Leadership-Style](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
+- [Overcome your image of playing it too safe](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Overcome%20your%20image%20of%20playing%20it%20too%20safe.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
