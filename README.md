@@ -25,6 +25,7 @@
 - [Productivity-and-Time-Management](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
 - [Leaders Eat Last](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md)
 - [The Six Morning Habits of High Performers](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%20Six%20Morning%20Habits%20of%20High%20Performers.md)
+- [How To Be Successful - Sam Altman](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/How%20To%20Be%20Successful.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
