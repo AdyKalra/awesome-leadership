@@ -3,10 +3,12 @@
 #### Nurturing and Building teams
 - [7 Must-Do’s to Nurture 10x Engineers](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/7%20Must-Do%E2%80%99s%20to%20Nurture%2010x%20Engineers.md)
 - [Building-Teams](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Building-Teams.md)
+- [People-Ops-Perf-Reviews-and-Goal-setting](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Conflict-Prevention-Resolution](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
 - [Giving-Feedback-Praise-and-Advice](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Giving-Feedback-Praise-and-Advice.md)
 - [Hiring-and-Interviewing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Hiring-and-Interviewing.md)
 - [Managing-Remotely](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Managing-Remotely.md)
+- [One-on-Ones](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 - [Meetings](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Meetings.md)
 - [Motivation-Retention](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Motivation-Retention.md)
 
@@ -20,6 +22,7 @@
 - [Empathy-and-Listening](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Empathy-and-Listening.md)
 - [Influencing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Influencing-Others.md)
 - [Leadership-Philosophies-and-Styles](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
+- [Productivity-and-Time-Management](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -47,6 +50,9 @@
 #### Strategy 
 - [First 100 days](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/First%20100%20days.md)
 - [Decision-Making-and-Prioritization](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
+- [Planning-roadmaps](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
+- [Postmortems-Retrospectives](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
+
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
