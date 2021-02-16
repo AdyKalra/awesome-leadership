@@ -74,6 +74,7 @@
 - [For-Developers-Teamwork-TechDebt](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/For-Developers-Teamwork-TechDebt.md)
 - [Tools-to-Define-Your-Leadership-Style](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+- [The 4 BEPS Axes of a Leader](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%204%20BEPS%20Axes%20of%20a%20Leader.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -82,6 +83,7 @@
 #### Embarking Senior Leadership (Leads and Principals)
 - [Tools-to-Define-Your-Leadership-Style](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 - [Overcome your image of playing it too safe](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Overcome%20your%20image%20of%20playing%20it%20too%20safe.md)
+- [The 4 BEPS Axes of a Leader](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%204%20BEPS%20Axes%20of%20a%20Leader.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
