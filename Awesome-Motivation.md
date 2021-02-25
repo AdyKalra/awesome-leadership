@@ -88,3 +88,5 @@
   * After you’ve made enough money to buy whatever you want and gotten enough social status that it stops being fun to get more, this is the only force I know of that will continue to drive you to higher levels of performance.
   * Eventually, you will define your success by performing excellent work in areas that are important to you. The sooner you can start off in that direction, the further you will be able to go. It is hard to be wildly successful at anything you aren’t obsessed with.
  
+* **The expert Phenomenon**
+    * As you build your business and brand in your presentations, pitches and writing , in your networking and socializing, it is entirely possible to position yourself as an industry expert on purpose, to become iconic by design.  
