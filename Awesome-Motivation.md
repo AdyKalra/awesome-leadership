@@ -21,6 +21,11 @@
   * "You can't be half a leader , you need to be all-in or not at all"
   * "Unsuprisingly what you wont find is anybody below the CEO level ever saying that the reason they get up in the morning is to increase the shareholder revenue"
 
+* **What it will take to Design you?**
+    * Knowledge , Personality , Sustained Publicity
+    * Some of the most successful experts are eccentric, off-the-wall, larger than life characters who stand out in thier industries.
+    * Expert is a perception.It is socially created and agreed upon idea. **And to create a perception, you must show your face , they must hear your voice, read your words , encounter you and experience you.**
+    
 * **Ruthlessly prioritize**
   * To ruthlessly prioritize, you must be able to answer the question, “What’s the most important thing I need to accomplish in this role?” Keep your goals front and center and get comfortable saying no and pushing back on competing demands, which can be tough for conflict-averse Strivers.
   * I look at my goals, I'm like okay, of the infinite things I could work on today, and out of the 20 things that are on my goal and to do list, what are the three that will make the biggest impact for me right now, and move me forward toward my most important goals? 
@@ -90,3 +95,7 @@
  
 * **The expert Phenomenon**
     * As you build your business and brand in your presentations, pitches and writing , in your networking and socializing, it is entirely possible to position yourself as an industry expert on purpose, to become iconic by design.  
+
+* **Transition Phases**
+    * Novice -> Working Drone -> Practitioner -> Specialist -> Authority -> Thought leader -> Legend -> Guru
+    
