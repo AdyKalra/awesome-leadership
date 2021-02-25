@@ -4,6 +4,12 @@
 
 * Hold a holistic view of organization’s ecosystem and stakeholders. Anticipate major shifts in the marketplace and identify emerging opportunities. Know how to work within resource limitations and make tough calls to reach the team’s goals. 
 
+* **Premium Positioning is a choice** , just as wealth is a choice, and no one else can make that choice for you.
+    
+* The barrier to entry for thoughtleadership exists only in your mind. If you have the courage to try, chances are that you can become an industry thought leader.
+
+* It is almost impossible to get rich without working hard. However it is entirely possible to work hard and never get rich. **Percieved expertise determines the value of your work.**
+
 * **Bring "Sizzle" as well as "Substance"**
   * Sizzle = Personality
   * Substance = Plan
