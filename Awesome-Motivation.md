@@ -3,6 +3,11 @@
 * "Your level of success "will seldom exceed your level of personal development, "because success is something you attract "by the person you become." 
 
 * Hold a holistic view of organization’s ecosystem and stakeholders. Anticipate major shifts in the marketplace and identify emerging opportunities. Know how to work within resource limitations and make tough calls to reach the team’s goals. 
+* * If you take your work seriously and care deeply about what you do, the chances are you will eventually end up as an industry expert, even without assistance of these ideas. But if you don't care about the industry no amount of strategic input will get you there.
+
+* **Experts have a differnt culture to low-level workers. They think about their industry, fixate on it, care about it, worry about it, wish they could change it, speak to it, interact with it, affect it, assist it in growing it. Their love of it is palpable and that is already most of the battle won."
+
+* **One of the surest ways to win any contest is to out-care your competition**
 
 * **Premium Positioning is a choice** , just as wealth is a choice, and no one else can make that choice for you.
     
