@@ -41,6 +41,9 @@
 
 * Your ability to see nuance, uncover patterns, and synthesize data makes you especially original, creative, and suited for strategy.
 
+* * In everything you see, ask yourself: did I believe it? Or not? **Am I impressed by that approach ? Or did it fail?** Did it create authority? Or was it lame? Did that article jump up at me as the work of an expert? Or the fumbling of an amateur? Was it credible? Or did it fall short? What works and what doesn't?
+      * Asking the constant question will help you familiar to excellence in your field. 
+
 * **Use visualization to motivate yourself**
    * Two things on it. Number one is the world's best athletes almost all of them use visualization including UFC fighters, right. And there's a reason for that. It's they visualize themself performing optimally and achieving their goals so that they go there mentally and emotionally before they ever step on the court or before they ever open the book or before they ever, right. They've already gone there in their mind so when it's realtime, when it's game time, when it's practice them it's that much easier to go there.
    * And the other thing I'll say on visualization is don't just visualize the end result. Visualize, in fact more important, visualize the activity. See yourself getting on the phone to make those calls. See yourself opening your computer to write those words that's going to make that into a book. See yourself going to the gym or lacing up your running shoes and heading out your front door. Especially if you don't feel like it or you don't like doing those things. See yourself doing it with a smile on your face in a way that's appealing.
