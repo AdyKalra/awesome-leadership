@@ -27,6 +27,7 @@
 - [The Six Morning Habits of High Performers](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%20Six%20Morning%20Habits%20of%20High%20Performers.md)
 - [How To Be Successful - Sam Altman](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/How%20To%20Be%20Successful.md)
 - [Own Your Industry](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Own%20Your%20Industry.md)
+- [7 Habits I Avoid to Become Highly Productive](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/7%20Habits%20I%20Avoid%20to%20Become%20Highly%20Productive.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
