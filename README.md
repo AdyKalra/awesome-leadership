@@ -59,6 +59,7 @@
 - [Decision-Making-and-Prioritization](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
 - [Planning-roadmaps](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
 - [Postmortems-Retrospectives](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
+- [Product Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Product%20Strategy.md)
 
 
 [Back to top :arrow_up:](#trends)
