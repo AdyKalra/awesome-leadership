@@ -40,6 +40,7 @@
 - [Firing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Firing.md)
 - [The-CTO-role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-CTO-role.md)
 - [The-VP-Engineering-Role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-VP-Engineering-Role.md)
+- [engineer-manager](https://github.com/ryanburgess/engineer-manager)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
