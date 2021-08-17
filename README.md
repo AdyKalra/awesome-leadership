@@ -79,6 +79,7 @@
 - [Tools-to-Define-Your-Leadership-Style](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [The 4 BEPS Axes of a Leader](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%204%20BEPS%20Axes%20of%20a%20Leader.md)
+- [how-to-become-a-lead-software-engineer](https://medium.com/ingeniouslysimple/how-to-become-a-lead-software-engineer-460c17edffdf)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
