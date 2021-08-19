@@ -61,6 +61,7 @@
 - [Planning-roadmaps](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
 - [Postmortems-Retrospectives](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
 - [Product Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Product%20Strategy.md)
+- [awesome-cto](https://github.com/kuchin/awesome-cto)
 
 
 [Back to top :arrow_up:](#trends)
