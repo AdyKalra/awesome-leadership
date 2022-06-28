@@ -1,3 +1,5 @@
+Everything Leadership - Qualities, building teams, books, one-ones, strategy, influencing, anything leadership
+
 # awesome-leadership
 
 #### Nurturing and Building teams
