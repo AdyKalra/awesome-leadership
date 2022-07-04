@@ -65,7 +65,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Postmortems-Retrospectives](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
 - [Product Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Product%20Strategy.md)
 - [awesome-cto](https://github.com/kuchin/awesome-cto)
-- [Good Strategy Bad Strategy](Good Strategy Bad Strategy.md)
+- [Good Strategy Bad Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Good%20Strategy%20Bad%20Strategy.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
