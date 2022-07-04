@@ -7,6 +7,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Building-Teams](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Building-Teams.md)
 - [Building-Products-and-Startups-OKRs](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
 - [People-Ops-Perf-Reviews-and-Goal-setting](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/People-Ops-Perf-Reviews-and-Goal-setting.md)
+- [Planning, Prioritization, Processes and Roadmaps](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
 - [Conflict-Prevention-Resolution](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
 - [Giving-Feedback-Praise-and-Advice](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Giving-Feedback-Praise-and-Advice.md)
 - [Hiring-and-Interviewing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Hiring-and-Interviewing.md)
