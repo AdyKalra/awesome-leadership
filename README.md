@@ -32,6 +32,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [How To Be Successful - Sam Altman](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/How%20To%20Be%20Successful.md)
 - [Own Your Industry](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Own%20Your%20Industry.md)
 - [7 Habits I Avoid to Become Highly Productive](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/7%20Habits%20I%20Avoid%20to%20Become%20Highly%20Productive.md)
+- [Speak like an Executive](https://www.youtube.com/watch?v=ewtO4D6aKbE)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
