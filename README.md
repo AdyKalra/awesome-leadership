@@ -2,6 +2,40 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 
 # awesome-leadership
 
+#### Overall Motivation
+- [Best Life Hacks](https://github.com/AdyKalra/awesome-leadership/blob/main/Best%20Life%20Hacks.md)
+
+[Back to top :arrow_up:](#trends)
+[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
+
+#### Org 
+- [Culture](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Culture.md)
+- [Diversity-and-Inclusion](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Diversity-and-Inclusion.md)
+- [Leading-Leaders](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
+- [Firing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Firing.md)
+- [The-CTO-role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-CTO-role.md)
+- [The-VP-Engineering-Role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-VP-Engineering-Role.md)
+- [engineer-manager](https://github.com/ryanburgess/engineer-manager)
+- [How to De-Scale your Organization](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/DeScaling%20Organisation.md)
+
+[Back to top :arrow_up:](#trends)
+[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
+
+#### Strategy 
+- [First 100 days](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/First%20100%20days.md)
+- [Decision-Making-and-Prioritization](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
+- [Planning-roadmaps](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
+- [Postmortems-Retrospectives](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
+- [Product Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Product%20Strategy.md)
+- [awesome-cto](https://github.com/kuchin/awesome-cto)
+- [Good Strategy Bad Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Good%20Strategy%20Bad%20Strategy.md)
+
+[Back to top :arrow_up:](#trends)
+[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
+<!--- END OF TOPIC--->
+
 #### Nurturing and Building teams
 - [7 Must-Do’s to Nurture 10x Engineers](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/7%20Must-Do%E2%80%99s%20to%20Nurture%2010x%20Engineers.md)
 - [Building-Teams](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Building-Teams.md)
@@ -38,20 +72,6 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
 
-#### Org 
-- [Culture](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Culture.md)
-- [Diversity-and-Inclusion](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Diversity-and-Inclusion.md)
-- [Leading-Leaders](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
-- [Firing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Firing.md)
-- [The-CTO-role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-CTO-role.md)
-- [The-VP-Engineering-Role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-VP-Engineering-Role.md)
-- [engineer-manager](https://github.com/ryanburgess/engineer-manager)
-- [How to De-Scale your Organization](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/DeScaling%20Organisation.md)
-
-[Back to top :arrow_up:](#trends)
-[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
-<!--- END OF TOPIC--->
-
 #### leadership Community
 - [Leaders to follow](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leader-List.md)
 - [Leadership-Forums](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leadership-Forums.md)
@@ -61,18 +81,6 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
 
-#### Strategy 
-- [First 100 days](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/First%20100%20days.md)
-- [Decision-Making-and-Prioritization](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
-- [Planning-roadmaps](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
-- [Postmortems-Retrospectives](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
-- [Product Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Product%20Strategy.md)
-- [awesome-cto](https://github.com/kuchin/awesome-cto)
-- [Good Strategy Bad Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Good%20Strategy%20Bad%20Strategy.md)
-
-[Back to top :arrow_up:](#trends)
-[Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
-<!--- END OF TOPIC--->
 
 #### Working with Stakeholders
 - [Product , Startups and OKRs](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
