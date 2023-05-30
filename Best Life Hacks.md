@@ -42,4 +42,12 @@
 - Mann cared less about the obsessive maintenance of an empty inbox, and more about minimizing the mental energy spent on email. The thrust: our attention is demanded by numerous inboxes — work emails, personal emails, social media, messaging apps, missed phone calls. We can’t possibly handle everything, so we should learn to prioritize what really matters to us.
 - Among his recommendations are some familiar ideas (routine tech detoxes, limiting email checks to certain hours of the day) and a brilliant retrofit of the Golden Rule: treat others’ inboxes as we would want our own to be treated. Think of it as a digital stewardship, intended to cut down on unnecessary communication and time-wasting, which will benefit you, in kind.
 
+## Paper Clip Strategy
+- In his bestseller Atomic Habits, James Clear unpacks the curious tale of Trent Dyrsmid, a rookie stockbroker who managed to haul in $5 million of business in his first year and a half on the job. Dyrsmid was neither a prodigy nor a fraudster; he just knew how to play with paper clips.
+
+- Using 120 paper clips and two jars, Dyrsmid made a habit of moving a paper clip from one jar to another after each sales call he made, providing a tangible representation of his progress throughout the day. He gamified his workplace habit formation, essentially, with the paper clips serving as both reminder and motivator for the task at hand.
+- The genius of this strategy lies in its visual representation of progress. With a goal of moving every single paper clip to the other jar by the end of the day, Dyrsmid could keep easy tabs on his progress. The approach taps into a universal truth of behavior change: to build a habit, you simply have to do the thing.
+
+
+
 [Source](https://www.insidehook.com/article/health-and-fitness/best-life-hacks-last-100-years)
