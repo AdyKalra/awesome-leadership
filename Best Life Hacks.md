@@ -48,6 +48,11 @@
 - Using 120 paper clips and two jars, Dyrsmid made a habit of moving a paper clip from one jar to another after each sales call he made, providing a tangible representation of his progress throughout the day. He gamified his workplace habit formation, essentially, with the paper clips serving as both reminder and motivator for the task at hand.
 - The genius of this strategy lies in its visual representation of progress. With a goal of moving every single paper clip to the other jar by the end of the day, Dyrsmid could keep easy tabs on his progress. The approach taps into a universal truth of behavior change: to build a habit, you simply have to do the thing.
 
+## The Feynman Technique
+- An early favorite feature for many in the AI age — you can ask a chatbot to explain a concept as if it were talking to a six-year-old. It’s a fantastic way to glean a quick, working knowledge of whatever topic’s at hand.
 
+- This sort of prompt shares similarities with the Feynman Technique, named after the Nobel Prize-winning physicist Richard Feynman, who declared that if you can’t explain something in simple terms, you don’t understand it. His technique challenges students to teach a concept to a hypothetical child, simplifying language and bridging gaps in logic along the way. This methodology encourages active learning, while quickly illuminating areas of misunderstanding.
+
+- And it isn’t just a learning tool; the Feynman Technique has a knack for coaxing out one’s best critical thinking and communication skills. It may have originated in the complex world of quantum physics, but its application is universal.
 
 [Source](https://www.insidehook.com/article/health-and-fitness/best-life-hacks-last-100-years)
