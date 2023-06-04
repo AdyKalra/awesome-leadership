@@ -55,4 +55,25 @@
 
 - And it isn’t just a learning tool; the Feynman Technique has a knack for coaxing out one’s best critical thinking and communication skills. It may have originated in the complex world of quantum physics, but its application is universal.
 
+## Gratitude Journaling
+- Positivity is a friend to productivity. If you don’t buy it, think about how hard it is to focus on a project after a fight with a spouse, or after a car nearly clips you in the crosswalk on the way to work. Choosing to live with forgiveness, with grace, with gratitude — making a point to savor things, day after day — is really freaking hard. But it’s worth it.
+
+- Gratitude journaling is one of the best ways to get yourself in the habit. Extolled by countless thinkers, though popularized by influential researchers like Robert Emmons and Michael McCullough, the simple self-care practice involves daily writing about whatever things you’re finding yourself grateful for.
+
+- Done right, gratitude journaling can reduce stress, improve mental well-being and encourage better sleep. For its most faithful devotees, it’s more than just a list of thank-yous; it’s a thoughtful reflection that can counterbalance our brain’s inherent negativity bias, and an invocation to celebrate the everyday and the extraordinary in equal measure.
+
+## The Miracle Morning
+- In recent years, research has emerged on the genetic delta between “early birds” and “night owls.” The latter isn’t more slovenly than the former — night owls are just predisposed to different sleep-wake cycles, which makes attacking the morning a little more difficult for them.
+
+- But while neither productivity nor purpose are entirely dependent on Goggins-esque wake-ups, turbocharged morning routines can be transformational. Hal Elrod’s 2012 book, The Miracle Morning, urges adults to claim early hours for their own, armed with a powerful acronym: SAVERS. It stands for Silence, Affirmations, Visualization, Exercise, Reading, Scribing.
+
+- Assign a set amount of time to each activity (sit in silence for 10 minutes, read yourself personal affirmations for 10, and so on) to set a tone for the day that is holistically healthy. The Miracle Morning has an impact on one’s mental, emotional, and physical wellbeing. The core theme here is intentionality — no matter when you get up, you’re not already on your back foot, scambling as you react to the day. You’re actively participating in it. You have a plan.
+
+## Mind Mapping
+- This one was technically formalized in the last 100 years — British psychologist and author Tony Buzan codified the method the 1970s — but various iterations of “mind mapping” have been around for centuries. Buzan was inspired by the cognitive exercises of Greek philosophers, Leonardo Da Vinci and Albert Einstein.
+
+- Mind maps are centered around a singular concept or problem (written or drawn — though pictures often work best), with related ideas or solutions radiating outward in branches. They can further subdivide into smaller branches, like the twigs of a tree, each with relevant keywords, phrases or images. Whatever pops into your brain. Parsing brainstorms into such a graphical manner has a positive association with creativity, memory, and comprehension.
+
+- You don’t need to be a murder detective for your problems to deserve the full corkboard treatmemt. And the endgame here isn’t even to land on a solution, necessarily. It’s about freeing yourself from boring, sequential thinking, and learning to appreciate the many whims that meteor across your mind. That’s a productive pursuit in its own right.
+
 [Source](https://www.insidehook.com/article/health-and-fitness/best-life-hacks-last-100-years)
