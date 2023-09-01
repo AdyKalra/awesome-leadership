@@ -50,7 +50,10 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Meetings](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Meetings.md)
 - [Motivation-Retention](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Motivation-Retention.md)
 - [Engineering Management](https://github.com/charlax/engineering-management)
-
+- [mental-model-for-leading-high-performance-engineering-teams](https://medium.com/@_chrishan/a-mental-model-for-leading-high-performance-engineering-teams-bf84caed50dd)
+- [7 Must-Do’s to Nurture 10x Engineers](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/7%20Must-Do%E2%80%99s%20to%20Nurture%2010x%20Engineers.md)
+- 
+  
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
@@ -78,8 +81,11 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - |[awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders)
 - [The Best Trust Building Techniques for Busy Leaders](https://www.linkedin.com/pulse/best-trust-building-techniques-busy-leaders-john-eades/?trk=eml-email_series_follow_newsletter_01-hero-147-title_link&midToken=AQG1mCnrvban4w&fromEmail=fromEmail&ut=2Je05Q45-2oFo1)
 - [how-to-manage-a-remote-team-well](https://speakerdeck.com/clairelew/indie-dot-vc-how-to-manage-a-remote-team-well-4aed63fb-673d-40a2-9321-a2f04c8a8f9c)
+- [awesome-management](https://github.com/kdeldycke/awesome-management)
+- [ways-to-be-more-confident-concise-communicator](https://www.businessinsider.com/ways-to-be-more-confident-concise-communicator-2020-10?r=AU&IR=T)
+- [radical-candor-framework-engineering-manager-success](https://www.toptal.com/software/radical-candor-framework-engineering-manager-success)
+- [most-common-business-acronyms](https://www.themuse.com/advice/your-ultimate-cheat-sheet-to-deciphering-the-123-most-common-business-acronyms)
 - 
-
   
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -115,8 +121,10 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [manager-resources](https://github.com/VGraupera/manager-resources)
 - [engineering-management-resources](https://github.com/afternoon/engineering-management-resources)
 - [Digital transformation: 8 ways to spot your organization's rising leaders](https://enterprisersproject.com/article/2020/7/digital-transformation-rising-leaders)
-
-
+- [1on1-questions](https://github.com/VGraupera/1on1-questions)
+- [7-steps-to-technical-leadership](https://magdamiu.com/2020/09/12/7-steps-to-technical-leadership/)
+- 
+  
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
@@ -125,7 +133,11 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Tools-to-Define-Your-Leadership-Style](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 - [Overcome your image of playing it too safe](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Overcome%20your%20image%20of%20playing%20it%20too%20safe.md)
 - [The 4 BEPS Axes of a Leader](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%204%20BEPS%20Axes%20of%20a%20Leader.md)
+- [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management)
+- [vpe-and-cto-the-first-90-days](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)
+- [awesome-cto](https://github.com/kuchin/awesome-cto)
 
+  
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
