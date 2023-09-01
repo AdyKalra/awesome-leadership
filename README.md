@@ -49,6 +49,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [One-on-Ones](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 - [Meetings](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Meetings.md)
 - [Motivation-Retention](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Motivation-Retention.md)
+- [Engineering Management](https://github.com/charlax/engineering-management)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -67,7 +68,19 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Own Your Industry](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Own%20Your%20Industry.md)
 - [7 Habits I Avoid to Become Highly Productive](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/7%20Habits%20I%20Avoid%20to%20Become%20Highly%20Productive.md)
 - [Speak as an Executive](https://www.youtube.com/watch?v=ewtO4D6aKbE)
+- [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+- [Managers Playbook](https://github.com/ksindi/managers-playbook)
+- [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
+- [Public_Speaking](https://github.com/vmbrasseur/Public_Speaking)
+- [weareallaweso](http://weareallaweso.me/)
+- [engineer-manager](https://github.com/ryanburgess/engineer-manager)
+- [engineeringladders](https://github.com/jorgef/engineeringladders)
+- |[awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders)
+- [The Best Trust Building Techniques for Busy Leaders](https://www.linkedin.com/pulse/best-trust-building-techniques-busy-leaders-john-eades/?trk=eml-email_series_follow_newsletter_01-hero-147-title_link&midToken=AQG1mCnrvban4w&fromEmail=fromEmail&ut=2Je05Q45-2oFo1)
+- [how-to-manage-a-remote-team-well](https://speakerdeck.com/clairelew/indie-dot-vc-how-to-manage-a-remote-team-well-4aed63fb-673d-40a2-9321-a2f04c8a8f9c)
+- 
 
+  
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
 <!--- END OF TOPIC--->
@@ -76,6 +89,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Leaders to follow](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leader-List.md)
 - [Leadership-Forums](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Leadership-Forums.md)
 - [insights blogs newsletters podcasts](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Media-Blogs-Newsletters-Podcasts.md)
+- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -84,6 +98,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 
 #### Working with Stakeholders
 - [Product , Startups and OKRs](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
+- [digital-transformation-leadership-manifesto](https://enterprisersproject.com/article/2020/7/digital-transformation-leadership-manifesto)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
@@ -95,6 +110,12 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Transitioning to Management](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [The 4 BEPS Axes of a Leader](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%204%20BEPS%20Axes%20of%20a%20Leader.md)
 - [how-to-become-a-lead-software-engineer](https://medium.com/ingeniouslysimple/how-to-become-a-lead-software-engineer-460c17edffdf)
+- [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
+- [manager-resources](https://github.com/dmleong/manager-resources)
+- [manager-resources](https://github.com/VGraupera/manager-resources)
+- [engineering-management-resources](https://github.com/afternoon/engineering-management-resources)
+- [Digital transformation: 8 ways to spot your organization's rising leaders](https://enterprisersproject.com/article/2020/7/digital-transformation-rising-leaders)
+
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
