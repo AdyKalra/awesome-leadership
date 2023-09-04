@@ -31,6 +31,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Product Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Product%20Strategy.md)
 - [awesome-cto](https://github.com/kuchin/awesome-cto)
 - [Good Strategy Bad Strategy](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Good%20Strategy%20Bad%20Strategy.md)
+- [What Type Of Strategist Are You? 5 Types And Their Pros And Cons](https://github.com/AdyKalra/awesome-leadership/blob/main/What%20Type%20Of%20Strategist%20Are%20You.md)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
