@@ -99,7 +99,7 @@ Positive Communication  | Habits	Foster a positive conversational atmosphere.	 |
 35	| Master the Art of Timing	|Understand the optimal timing for actions and decisions.	|Choose appropriate moments for key actions; be mindful of timing.
 36	| Disdain Things You Cannot Have: Ignoring Them Is the Best Revenge	|Focus on what's attainable; ignore unattainable goals.	|Prioritize efforts on achievable goals; let go of unattainable desires.
 37	| Create Compelling Spectacles	|Stage memorable events for influence and attention.	|Organize events strategically; capture attention through impactful presentations.
-38	| Think As You Like But Behave Like Others	Blend in while strategically holding your own beliefs.	Adapt to social norms; strategically express dissent when necessary.
+38	| Think As You Like But Behave Like Others	|Blend in while strategically holding your own beliefs.	|Adapt to social norms; strategically express dissent when necessary.
 39	| Stir Up Waters	|Introduce change and disruption strategically for control.	|Innovate when necessary; challenge the status quo for positive change.
 40	| Despise the Free Lunch	|Be aware of hidden motives in seemingly generous offers.	|Evaluate offers critically; consider underlying motives.
 41	| Avoid Stepping Into a Great Man’s Shoes|	Create your own path instead of imitating others.|	Chart your unique course; avoid imitating others blindly.
