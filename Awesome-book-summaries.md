@@ -75,19 +75,19 @@ Positive Communication  | Habits	Foster a positive conversational atmosphere.	 |
 11	| Learn to Keep People Dependent on You	| Cultivate dependency strategically for influence.	| Provide valuable support; foster interdependence in relationships.
 12	| Use Selective Honesty and Generosity	| Be honest and generous strategically for maximum impact.	| Be honest when necessary; share generously when it aligns with goals.
 13	| When Asking for Help, Appeal to People’s Self-Interest	| Align requests with the interests of those you ask for help.	| Clearly communicate mutual benefits when seeking assistance.
-14	| Pose as a Friend, Work as a Spy	Gather information discreetly for strategic advantage.	Be observant without betraying trust; gather insights subtly.
-15	| Crush Your Enemy Totally	Avoid half measures; eliminate threats decisively.	Address challenges decisively; prevent lingering issues.
-16	| Use Absence to Increase Respect and Honor	Create value through scarcity and occasional absence.	Balance availability; occasional scarcity can enhance perceived value.
-17	| Keep Others in Suspended Terror	Maintain an element of unpredictability for control.	Be consistent yet maintain an air of unpredictability when needed.
-18	| Do Not Build Fortresses to Protect Yourself – Isolation is Dangerous	Avoid becoming isolated; maintain connections.	Foster relationships; collaborate to build a supportive network.
-19	| Know Who You’re Dealing With – Do Not Offend the Wrong Person	Assess the power dynamics and choose your battles wisely.	Understand the personalities involved; adapt communication accordingly.
-20	| Do Not Commit to Anyone	Retain flexibility and avoid committing too soon.	Evaluate relationships and commitments carefully before full commitment.
-21	| Play a Sucker to Catch a Sucker – Seem Dumber Than Your Mark	Use deception strategically to gain an advantage.	Assess situations carefully; avoid revealing the full extent of your abilities.
-22	| Use the Surrender Tactic: Transform Weakness into Power	Turn apparent weakness into a strategic advantage.	Leverage vulnerabilities strategically; portray them in a positive light.
-23	| Concentrate Your Forces	Focus your efforts to maximize impact.	Prioritize tasks; avoid spreading efforts too thin.
-24	| Play the Perfect Courtier	Adapt to the environment and show deference when needed.	Adjust behavior to fit the context; demonstrate respect appropriately.
-25	| Re-Create Yourself	Continually evolve to stay relevant and powerful.	Embrace personal growth; adapt to changing circumstances.
-26	| Keep Your Hands Clean	Avoid direct involvement in controversial or dirty matters.	Maintain ethical standards; avoid engaging in unethical activities.
+14	| Pose as a Friend, Work as a Spy	| Gather information discreetly for strategic advantage.	| Be observant without betraying trust; gather insights subtly.
+15	| Crush Your Enemy Totally| 	Avoid half measures; eliminate threats decisively.| 	Address challenges decisively; prevent lingering issues.
+16	| Use Absence to Increase Respect and Honor| 	Create value through scarcity and occasional absence.	| Balance availability; occasional scarcity can enhance perceived value.
+17	| Keep Others in Suspended Terror	| Maintain an element of unpredictability for control.	| Be consistent yet maintain an air of unpredictability when needed.
+18	| Do Not Build Fortresses to Protect Yourself – Isolation is Dangerous	| Avoid becoming isolated; maintain connections.	| Foster relationships; collaborate to build a supportive network.
+19	| Know Who You’re Dealing With – Do Not Offend the Wrong Person	| Assess the power dynamics and choose your battles wisely.	| Understand the personalities involved; adapt communication accordingly.
+20	| Do Not Commit to Anyone	| Retain flexibility and avoid committing too soon.	| Evaluate relationships and commitments carefully before full commitment.
+21	| Play a Sucker to Catch a Sucker – Seem Dumber Than Your Mark	| Use deception strategically to gain an advantage.	| Assess situations carefully; avoid revealing the full extent of your abilities.
+22	| Use the Surrender Tactic: Transform Weakness into Power	| Turn apparent weakness into a strategic advantage.	| Leverage vulnerabilities strategically; portray them in a positive light.
+23	| Concentrate Your Forces	| Focus your efforts to maximize impact.	| Prioritize tasks; avoid spreading efforts too thin.
+24	| Play the Perfect Courtier	| Adapt to the environment and show deference when needed.| 	Adjust behavior to fit the context; demonstrate respect appropriately.
+25	| Re-Create Yourself	| Continually evolve to stay relevant and powerful.	| Embrace personal growth; adapt to changing circumstances.
+26	| Keep Your Hands Clean	| Avoid direct involvement in controversial or dirty matters.	| Maintain ethical standards; avoid engaging in unethical activities.
 27	| Play on People’s Need to Believe to Create a Cultlike Following	Create a compelling narrative to build loyalty.	Craft a persuasive message; appeal to the emotional needs of the audience.
 28	| Enter Action with Boldness	Make decisive moves with confidence.	Take calculated risks; demonstrate confidence in decision-making.
 29	| Plan All the Way to the End	Consider long-term consequences and plan accordingly.	Anticipate future challenges; plan strategically for desired outcomes.
