@@ -1,4 +1,4 @@
-<img width="496" alt="image" src="https://github.com/AdyKalra/awesome-leadership/assets/8856857/5bcd36aa-a438-465c-9dcc-7457b876d02a">### "The 5 AM Club" by Robin Sharma, practical applications, and similar concepts explained in simple terms:
+### "The 5 AM Club" by Robin Sharma, practical applications, and similar concepts explained in simple terms:
 
 |Key Learnings|	How to Use Them in Real Life|	Similar Concepts Explained in Simple Terms|
 | ------------- | ------------- | ------------- |
