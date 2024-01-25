@@ -86,7 +86,8 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [ways-to-be-more-confident-concise-communicator](https://www.businessinsider.com/ways-to-be-more-confident-concise-communicator-2020-10?r=AU&IR=T)
 - [radical-candor-framework-engineering-manager-success](https://www.toptal.com/software/radical-candor-framework-engineering-manager-success)
 - [most-common-business-acronyms](https://www.themuse.com/advice/your-ultimate-cheat-sheet-to-deciphering-the-123-most-common-business-acronyms)
-- 
+- [Engineering Leadership: Tools and Techniques](https://github.com/AdyKalra/awesome-leadership/blob/main/Engineering%20Leadership%3A%20Tools%20and%20Techniques.md)
+  
   
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
