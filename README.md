@@ -87,6 +87,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [radical-candor-framework-engineering-manager-success](https://www.toptal.com/software/radical-candor-framework-engineering-manager-success)
 - [most-common-business-acronyms](https://www.themuse.com/advice/your-ultimate-cheat-sheet-to-deciphering-the-123-most-common-business-acronyms)
 - [Engineering Leadership: Tools and Techniques](https://github.com/AdyKalra/awesome-leadership/blob/main/Engineering%20Leadership%3A%20Tools%20and%20Techniques.md)
+- [How to set Priorities when your plate is too full](https://github.com/AdyKalra/awesome-leadership/blob/main/How%20to%20set%20Priorities.md)
   
   
 [Back to top :arrow_up:](#trends)
