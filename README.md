@@ -88,7 +88,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [most-common-business-acronyms](https://www.themuse.com/advice/your-ultimate-cheat-sheet-to-deciphering-the-123-most-common-business-acronyms)
 - [Engineering Leadership: Tools and Techniques](https://github.com/AdyKalra/awesome-leadership/blob/main/Engineering%20Leadership%3A%20Tools%20and%20Techniques.md)
 - [How to set Priorities when your plate is too full](https://github.com/AdyKalra/awesome-leadership/blob/main/How%20to%20set%20Priorities.md)
-  
+- [How to Influence Without Authority](https://github.com/AdyKalra/awesome-leadership/blob/main/How%20to%20Influence%20Without%20Authority.md)
   
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
