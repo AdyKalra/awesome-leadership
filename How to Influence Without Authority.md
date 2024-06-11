@@ -41,32 +41,6 @@
     * Frequent updates and insights (e.g. customer feedback) gradually build your credibility with senior executives you rarely engage with.
     * Add a “Credit goes to…” and “Advisors…” section when announcing a celebratory launch to spotlight stakeholders.
 
-It doesn't matter if you're right ... if you can't get others to join you.
+* It doesn't matter if you're right ... if you can't get others to join you.
 
-Whether you have formal authority or not, you need influencing skills. Unless you’re the CEO, your levels of authority are limited, making it difficult to shape decisions or keep people accountable. This can lead to missed deadlines and a sense of frustration and disempowerment. You might feel behind, stuck in your career, or worse, like you’re never taken seriously.
-
-Join “Impact through Influence in Engineering Teams” if you want to learn the mindsets, frameworks, and tools you need to build your personal brand, build relationships, and become influential at work so that your ideas and insights are not only heard but also valued and implemented.
-
-
-Software Engineers, Data Engineers, Engineering Managers, Researchers, Directors, CTOs, Product Managers, and Researchers from companies like Google, Amazon, Microsoft, Intel, and Square have taken this course and found it transformative.
-
-By joining this course, you also get a 1-year free subscription to "The Caring Techie Newsletter". See you in class!
-
-Share
-
-How to Be a High-Value Connector & Networker — Fireside chat and Q&A with Andrew Yeung (Founder & Investor; ex-Google; ex-Meta)
-Level Up newsletter paid members are invited to join this live discussion followed by audience Q&A on June 12 (Wednesday), where Andrew and Jason will discuss:
-
-How to get your foot into the door.
-
-How do you instantly establish rapport with anyone?
-
-Uncommon ways to engage and keep your network updated to invite opportunities?
-
-How Andrew balanced performing as top tier at Meta and Google with his founder path.
-
-​The biggest mistakes people make when "networking".
-
-Andrew Yeung is a former Google and Meta product leader turned tech and hospitality entrepreneur and investor. Andrew hosts some of the most in-demand events with executives, founders, and media personalities.
-
-Business Insider dubbed him the "Gatsby of Silicon Alley."
+* Whether you have formal authority or not, you need influencing skills. Unless you’re the CEO, your levels of authority are limited, making it difficult to shape decisions or keep people accountable. This can lead to missed deadlines and a sense of frustration and disempowerment. You might feel behind, stuck in your career, or worse, like you’re never taken seriously.
