@@ -18,6 +18,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [The-VP-Engineering-Role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-VP-Engineering-Role.md)
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager)
 - [How to De-Scale your Organization](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/DeScaling%20Organisation.md)
+- [Strategy house of the CTO](https://www.youtube.com/watch?v=oQjsQCq3aWA)
 
 [Back to top :arrow_up:](#trends)
 [Edit this file](https://github.com/AdyKalra/awesome-leadership/edit/main/README.md)
