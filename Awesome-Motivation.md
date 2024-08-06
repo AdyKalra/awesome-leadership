@@ -1,6 +1,6 @@
-## Awesome Motivation
+# Awesome Motivation
 
-## [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
+### [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
 
 1. Optimism, obsession, self-belief, raw horsepower and personal connections are how things get started.
 2. Cohesive teams, the right combination of calmness and urgency, and unreasonable commitment are how things get finished. Long-term orientation is in short supply; try not to worry about what people think in the short term, which will get easier over time.
