@@ -16,6 +16,7 @@ Everything Leadership - Qualities, building teams, books, one-ones, strategy, in
 - [Firing](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/Firing.md)
 - [The-CTO-role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-CTO-role.md)
 - [awesome-cto](https://github.com/kuchin/awesome-cto)
+- [CTO Shenanigans](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/CTO%20shenanigans.md)
 - [The-VP-Engineering-Role](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The-VP-Engineering-Role.md)
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager)
 - [How to De-Scale your Organization](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/DeScaling%20Organisation.md)
