@@ -132,10 +132,11 @@ Work hard, Have fun, Make History
    Dive Deep - Data driven decision making and frequent auditing
    Insist on highest standards - leaders have relentlessly high and many ppl think they are unreasonalbly high
    Always seek to improve the status quo
+   Used In Interviews, Performance calibrations, 
    1. Customer Obsession
       "Leaders start with the customer and work behind the scene. They work vigorously to earn and keep customer trust. Although Amazon leaders pay attention to competitors, they obsess over customers."
    2. Ownership
-"Amazon Leaders are owners. They think long term and don't sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say, "that's not my job."
+"Leaders are owners. They think long term and don't sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say, "that's not my job."
    3. Invent and Simplify
 "Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, seek fresh ideas from everywhere, and are not limited by "not invented here. As we do new things, we accept that we may be misunderstood for long periods of time."
     4. Are Right, a Lot
