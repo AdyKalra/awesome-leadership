@@ -110,3 +110,20 @@ Positive Communication  | Habits	Foster a positive conversational atmosphere.	 |
 46	| Never Appear Too Perfect	|Maintain an air of mystery; avoid perfection to create intrigue.|	Embrace vulnerability; show relatable aspects to build genuine connections.
 47	| Do Not Go Past the Mark You Aimed For	|Set achievable goals; avoid overreaching and causing backlash.|	Align ambitions with realistic outcomes; aim for sustainable progress.
 48	| Assume Formlessness |	Be flexible and adaptable to changing circumstances.	|Adapt to situations; avoid rigid approaches for increased resilience.
+
+
+### Working Backwards - Amazon
+Lessons learned and scars earned
+Work hard, Have fun, Make History
+
+1. Culture is 4 things:
+    Customer Obsession over competitor obsession
+    Willingness to think long term (longer investment horizon than peers)
+    Eagerness to Invent (hand in hand with failiure)
+    Taking professional pride in Operational Excellence
+
+2. 14 leadership principles - Reinforcing the bar raising culture
+    Bar raiser hiring process - Top talent
+    Single Threaded leader that optimizes for speed and innovation 
+
+3. Technical Advisor / Jeffs shadow / Chief of staff 
