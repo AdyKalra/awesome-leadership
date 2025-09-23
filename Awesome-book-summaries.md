@@ -162,4 +162,8 @@ Work hard, Have fun, Make History
     14.  Deliver Results
 "Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle."
 
-   
+- Performance based compensation
+Bulk of the compensation is based on long term value, wrong type of compensation can create misalignment
+  - rewarding short term goals at the expense of long term value creation
+  - rewarding the achievemnet of localised milestones 
+  - Intentionally push revenue targets/overspend marketing funds/defer expenses/cut back hiring/delay promotions
