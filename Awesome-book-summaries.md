@@ -162,13 +162,26 @@ Work hard, Have fun, Make History
     14.  Deliver Results
 "Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle."
 
-- Performance based compensation
-Bulk of the compensation is based on long term value, wrong type of compensation can create misalignment
-  - rewarding short term goals at the expense of long term value creation
-  - rewarding the achievemnet of localised milestones 
+- Performance-based compensation
+Bulk of the compensation is based on long-term value, the wrong type of compensation can create misalignment
+  - rewarding short-term goals at the expense of long-term value creation
+  - rewarding the achievement of localised milestones 
   - Intentionally push revenue targets/overspend marketing funds/defer expenses/cut back hiring/delay promotions
  
 **Hiring**
-- Bar raising process
-- Lack of rigorous model, unintentional bias, team members share insights - confirmation bias, time pressure, quality of written evaluation / lack of, personal bias
--   8
+- Bar raising process [Scalable, repeatable]
+    - Lack of rigorous model, unintentional bias, team members share insights - confirmation bias, time pressure, quality of written evaluation/lack of, personal bias
+    - Intense when trying to fill a highly in-demand role
+    - Average team spends 990 hours to hire 12 ppl (80 hrs per candidate)
+    - Hiring for the right culture
+    - Cant scale Jeff Bezos style of hiring - new ppl hiring new ppl hiring new ppl
+    - Bar Keepers / Bar Raisers Champions
+    - Quickly adopted across all corporate depts
+    - Goal of creating a scalable, repeatable, formal process for consistently making appropriate and successful hiring decisions
+    - Gifted Interviewers arent scalable
+    - Seasoned interviewer who does the last round (Bar raiser can veto any hire)
+    - Hiring was always urgent, bar raiser
+    - 8 steps - JD, Resume review, Phone screen, In house interview, wriiten feedback, debrief, hiring meeting, reference check, offer, onboarding
+    - Good JD - specific and focused / most critical part. Debriefs show that hiring managers v/s interviewers have diff expectations
+    - Phone screen - tell me about a time when you ....
+    - 
