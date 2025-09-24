@@ -167,3 +167,8 @@ Bulk of the compensation is based on long term value, wrong type of compensation
   - rewarding short term goals at the expense of long term value creation
   - rewarding the achievemnet of localised milestones 
   - Intentionally push revenue targets/overspend marketing funds/defer expenses/cut back hiring/delay promotions
+ 
+**Hiring**
+- Bar raising process
+- Lack of rigorous model, unintentional bias, team members share insights - confirmation bias, time pressure, quality of written evaluation / lack of, personal bias
+-   8
